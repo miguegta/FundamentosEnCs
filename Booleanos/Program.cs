@@ -2,8 +2,6 @@
 //false
 
 //Creación de tipo bool
-using System.Threading.Channels;
-
 bool hoyEsViernes = false;
 bool abierto = true;
 Console.WriteLine(hoyEsViernes);
