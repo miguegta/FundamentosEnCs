@@ -1,6 +1,4 @@
 ﻿//Ejemplo
-using System.Timers;
-
 const int RUEDAS = 4;
 const int PUERTAS = 6;
 
